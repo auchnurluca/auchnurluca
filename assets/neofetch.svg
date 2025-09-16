@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" font-family="monospace" font-size="16">
+  <rect width="985" height="530" fill="#161b22" rx="15"/>
+
+  <!-- ASCII links -->
+  <text x="15" y="30" fill="#c9d1d9">
+    <tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
+    <tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
+    <tspan x="15" y="70">       p!``  '! |''` '''|||jhlj%w           </tspan>
+    <tspan x="15" y="90">     ,@L `    ,,        ''!`|j%M]%M         </tspan>
+    <tspan x="15" y="110">    ]j'` .,wp@pw,    `.     ''''|%Wg        </tspan>
+    <tspan x="15" y="130">  /{||]@@@@@@@@@pp.             |||||      </tspan>
+    <tspan x="15" y="150"> '` ']@@@@@@@@@@@@@@p     , ,'''` `        </tspan>
+    <tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h '*||mkr     *       </tspan>
+    <tspan x="15" y="190">  '  j%M`      |jkk'   ~nrn=|i    ;`       </tspan>
+    <tspan x="15" y="210">   !  jrr*^`             `"!  L'':!        </tspan>
+    <tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy "  ,~        </tspan>
+    <tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
+    <tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j         </tspan>
+    <tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%',[         </tspan>
+    <tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@          </tspan>
+    <tspan x="15" y="330">     "djjmkL,"]][,,,,wwxw;|#kjk`           </tspan>
+    <tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
+    <tspan x="15" y="370">        kjj%%kkkl|!||||||j|||"             </tspan>
+    <tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
+    <tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
+    <tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
+    <tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
+    <tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
+    <tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
+    <tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i     </tspan>
+  </text>
+
+  <!-- Infos rechts -->
+  <text x="390" y="30" fill="#c9d1d9">
+    <tspan x="390" y="30">auchnur@luca</tspan> ——————————————————————————
+    <tspan x="390" y="50" fill="#616e7f">. </tspan><tspan fill="#ffa657">OS</tspan>:<tspan fill="#616e7f"> ................. </tspan><tspan fill="#a5d6ff">EndeavourOS, iOS 26, Linux Mint</tspan>
+    <tspan x="390" y="70" fill="#616e7f">. </tspan><tspan fill="#ffa657">Uptime</tspan>:<tspan fill="#616e7f"> ................. </tspan><tspan fill="#a5d6ff">20 years</tspan>
+    <tspan x="390" y="90" fill="#616e7f">. </tspan><tspan fill="#ffa657">Host</tspan>:<tspan fill="#616e7f"> .................... </tspan><tspan fill="#a5d6ff">Denoden Technologies, Inc.</tspan>
+    <tspan x="390" y="110" fill="#616e7f">. </tspan><tspan fill="#ffa657">Kernel</tspan>:<tspan fill="#616e7f"> .......... </tspan><tspan fill="#a5d6ff">CAM Operator</tspan>
+    <tspan x="390" y="130" fill="#616e7f">. </tspan><tspan fill="#ffa657">IDE</tspan>:<tspan fill="#616e7f"> .................... </tspan><tspan fill="#a5d6ff">IDEA, VSCode</tspan>
+    <tspan x="390" y="150"> </tspan>
+    <tspan x="390" y="170" fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Programming</tspan>:<tspan fill="#616e7f"> .. </tspan><tspan fill="#a5d6ff">Python, JS, C++</tspan>
+    <tspan x="390" y="190" fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Computer</tspan>:<tspan fill="#616e7f"> .... </tspan><tspan fill="#a5d6ff">HTML, CSS, JSON, LaTeX</tspan>
+    <tspan x="390" y="210" fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Real</tspan>:<tspan fill="#616e7f"> ................. </tspan><tspan fill="#a5d6ff">English, Spanish, German</tspan>
+    <tspan x="390" y="230"> </tspan>
+    <tspan x="390" y="250" fill="#616e7f">. </tspan><tspan fill="#ffa657">Hobbies.Software</tspan>:<tspan fill="#616e7f"> .. </tspan><tspan fill="#a5d6ff">Homelabbing, Concerts</tspan>
+    <tspan x="390" y="270" fill="#616e7f">. </tspan><tspan fill="#ffa657">Hobbies.Hardware</tspan>:<tspan fill="#616e7f"> .... </tspan><tspan fill="#a5d6ff">Overclocking, Undervolting</tspan>
+    <tspan x="390" y="310">- Contact ——————————————————————</tspan>
+    <tspan x="390" y="350" fill="#616e7f">. </tspan><tspan fill="#ffa657">Discord</tspan>:<tspan fill="#616e7f"> ............. </tspan><tspan fill="#a5d6ff">eigentlichnurluca</tspan>
+    <tspan x="390" y="370" fill="#616e7f">. </tspan><tspan fill="#ffa657">Instagram</tspan>:<tspan fill="#616e7f"> ........... </tspan><tspan fill="#a5d6ff">eigentlichnurluca</tspan>
+  </text>
+</svg>
